@@ -1,0 +1,15 @@
+paths:
+  html:
+    - index
+    - text
+    - 404
+  css:
+    - index
+    - text
+    - 404
+  js:
+    - functions
+  json:
+    - data
+port: 8080
+ip: "localhost"
